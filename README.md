@@ -15,8 +15,6 @@ A configurable API service to automatically filter out trolls’ toxic content, 
 * aggressive language (hostility towards other people, often associated with cyberbullying)
 * sexually explicit language (sexual acts, body parts, and other sexual content)
 
-——
-
 # Running BrowserQuest with Community Sift integration
 To test your own local instance of Browser Quest that includes a Community Sift integration, do the following:
 
@@ -62,8 +60,6 @@ To test your own local instance of Browser Quest that includes a Community Sift 
 *   `npm install -g http-server` (only needed the first time, after that just go on to next step)
 *   `http-server -p <port>` with port being the port you wish to use to serve the files
 *   Now you can go to [http://localhost:8080/](http://localhost:8080/) to see the game
-
-——
 
 ## About BrowserQuest
 
