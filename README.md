@@ -72,5 +72,5 @@ Code is licensed under MPL 2.0. Content is licensed under CC-BY-SA 3.0. See the 
 ### BrowserQuest Credits
 
 BrowserQuest was created by Little Workshop:
-	•	Franck Lecollinet - @whatthefranck
-	•	Guillaume Lecollinet - @glecollinet
+* Franck Lecollinet - @whatthefranck
+* Guillaume Lecollinet - @glecollinet
